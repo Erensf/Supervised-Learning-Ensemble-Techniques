@@ -1,4 +1,4 @@
-# Classification-Ensemble-Techniques
+# Supervised-Learning-Classification
 
 ## Visa Approval
 
